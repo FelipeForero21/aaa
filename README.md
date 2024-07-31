@@ -36,10 +36,6 @@ Esta API proporciona funcionalidades para la gestión y procesamiento de archivo
     npm run start
     ```
 
-## API Documentation
-
-La documentación de la API está disponible en `/api/doc` una vez que la aplicación esté en funcionamiento. Puedes acceder a ella en `http://localhost:3000/api/doc`.
-
 ## Usage
 
 ### Cargar Archivo CSV
